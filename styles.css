@@ -4,8 +4,6 @@ body {
     margin: 8px;
 }
 
-element.style {
-}
 .g1 {
     display: flex;
     justify-content: center;
@@ -18,8 +16,7 @@ div {
     display: block;
     unicode-bidi: isolate;
 }
-element.style {
-}
+
 .group1 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -30,8 +27,7 @@ element.style {
     margin-top: 2em;
     opacity: ;
 }
-element.style {
-}
+
 #btt1 {
     opacity: 0;
 }
@@ -45,7 +41,8 @@ element.style {
     z-index: 4444;
     border: 2px solid red;
 }
-user agent stylesheet
+
+
 button {
     appearance: auto;
     font-style: ;
@@ -85,4 +82,55 @@ button {
     border-style: outset;
     border-color: buttonborder;
     border-image: initial;
+}
+
+
+#btt2 {
+    opacity: 0;
+}
+#btt3 {
+    opacity: 0;
+}
+#btt4 {
+    opacity: 0;
+}
+#btt5 {
+    opacity: 0;
+}
+#btt6 {
+    opacity: 0;
+}
+#btt7 {
+    opacity: 0;
+}
+#btt8 {
+    opacity: 0;
+}
+#btt9 {
+    opacity: 0;
+}
+#btt10 {
+    opacity: 0;
+}
+#btt11 {
+    opacity: 0;
+}
+#btt12 {
+    opacity: 0;
+}
+
+.group1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    z-index: 55;
+    margin-top: 2em;
+    opacity: ;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
 }
