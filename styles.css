@@ -1,11 +1,5 @@
-element.style {
-}
 body {
     background: white;
-    font-family: Poppins;
-}
-user agent stylesheet
-body {
-    display: block;
+    font-family: Arial, sans-serif;
     margin: 8px;
 }
