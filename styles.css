@@ -134,3 +134,13 @@ div {
     display: block;
     unicode-bidi: isolate;
 }
+
+.images1 {
+    position: absolute;
+    top: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
