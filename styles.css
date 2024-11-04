@@ -12,10 +12,7 @@ body {
     position: relative;
 }
 user agent stylesheet
-div {
-    display: block;
-    unicode-bidi: isolate;
-}
+
 
 .group1 {
     display: grid;
@@ -119,22 +116,6 @@ button {
     opacity: 0;
 }
 
-.group1 {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 2em;
-    margin-left: 1em;
-    margin-right: 1em;
-    z-index: 55;
-    margin-top: 2em;
-    opacity: ;
-}
-
-div {
-    display: block;
-    unicode-bidi: isolate;
-}
-
 .images1 {
     position: absolute;
     top: 0;
@@ -144,3 +125,18 @@ div {
     margin-left: 1em;
     margin-right: 1em;
 }
+
+.ask {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    z-index: 5555555;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    margin-top: em;
+    position: relative;
+}
+
